@@ -50,7 +50,7 @@ const Portfolio: React.FC = () => {
           <a href="https://github.com/IorwueseNon" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">
             <FaGithub size={32} />
           </a>
-          <a href="https://www.linkedin.com/in/harry-nongomin-a89533356/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400">
+          <a href="https://www.linkedin.com/in/NongominHarry/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400">
             <FaLinkedin size={32} />
           </a>
           <a href="mailto:nongominharry@gmail.com" className="hover:text-blue-500">
