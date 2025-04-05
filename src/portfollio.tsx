@@ -69,7 +69,7 @@ const Portfolio: React.FC = () => {
           animate={{ scale: 1, opacity: 1 }} 
           transition={{ duration: 1 }}
         />
-        <p className="mt-4 text-lg text-blue-200 max-w-2xl mx-auto">
+        <p className="mt-4 text-lg text-black-200 max-w-2xl mx-auto">
           Hi! I'm Nongomin Harry, a passionate software engineer with a love for building elegant and efficient applications. 
           I enjoy working with modern web technologies, UI/UX design, and contributing to open source projects.
         </p>
